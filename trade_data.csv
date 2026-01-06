@@ -1,0 +1,7 @@
+TradeID,Ticker,Quantity,Price,Status
+T1001,AAPL,100,150.50,Settled
+T1002,GOOGL,50,2800.00,Pending
+T1003,MSFT,,300.00,Failed
+T1004,AAPL,100,150.50,Settled
+T1005,TSLA,20,700.00,Settled
+T1006,,100,50.00,Pending
